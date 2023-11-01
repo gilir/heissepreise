@@ -19,6 +19,7 @@ const translations = {
     cs: require("./locales/cs.json"),
     de: require("./locales/de.json"),
     en: require("./locales/en.json"),
+    fr: require("./locales/fr.json"),
 };
 /**
  * @type {string[]}
